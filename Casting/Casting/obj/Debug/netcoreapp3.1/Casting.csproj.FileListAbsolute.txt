@@ -1,0 +1,27 @@
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.exe
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.deps.json
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.json
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.dev.json
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.dll
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.pdb
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.csproj.AssemblyReference.cache
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfoInputs.cache
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfo.cs
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.csproj.CoreCompileInputs.cache
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.dll
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.pdb
+C:/Users/Eagha/Desktop/CodeLessons/BP202/16. 04042022/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.genruntimeconfig.cache
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.deps.json
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.json
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.dll
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/bin/Debug/netcoreapp3.1/Casting.pdb
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.dll
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.pdb
+/Users/ibrahimaliyevv/Desktop/BP202_13_Casting/Casting/Casting/obj/Debug/netcoreapp3.1/Casting.genruntimeconfig.cache
